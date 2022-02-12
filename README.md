@@ -14,7 +14,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **JavaScript, Express, CSS, HTML, mongodb**
+- 🌱 I’m currently learning **JavaScript, Express, CSS, HTML, mongodb, React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://inspiring-liskov-2f9b8f.netlify.app](https://inspiring-liskov-2f9b8f.netlify.app)
 
