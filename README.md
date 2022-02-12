@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Roshani Dumbhare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center" >A passionate frontend developer from India</h3>
+
+<img   align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="300" />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 - 🌱 I’m currently learning **JavaScript, Express, CSS, HTML, mongodb**
 
