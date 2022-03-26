@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Express, CSS, HTML, mongodb, React, Redux**
 
-- 👨‍💻 All of my projects are available at [https://inspiring-liskov-2f9b8f.netlify.app](https://inspiring-liskov-2f9b8f.netlify.app)
+- 👨‍💻 All of my projects are available at [https://inspiring-liskov-2f9b8f.netlify.app](https://roshani-dumbh.netlify.app/)
 
 - 💬 Ask me about **React,JavaScript**
 
