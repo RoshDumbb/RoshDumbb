@@ -2,7 +2,7 @@
 <h3 align="center" >A passionate frontend developer from India</h3>
 
 <!-- <img   align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="300" /> -->
-<img   align="right"  alt="GIF" src="https://media0.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif?cid=ecf05e4717fkwsxjtm7nop9zv3exuvao90an8reb0s6bncjn&rid=giphy.gif&ct=g" width="1000" height="400" />
+<img   align="right"  alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" width="1000" height="400" />
 
 
 
