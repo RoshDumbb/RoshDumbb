@@ -2,7 +2,7 @@
 <h3 align="center" >A passionate frontend developer from India</h3>
 
 <!-- <img   align="right"  alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="300" /> -->
-<img   align="right"  alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" width="1000" height="400" />
+<img   align="right"  alt="GIF" src="https://thumbs.dreamstime.com/b/media-developer-female-office-177619965.jpg" width="1000" height="400" />
 
 
 
